@@ -1,0 +1,99 @@
+[
+  {
+      "_id": "66f2449f64c28ad3d6a29eff",
+      "employeeID": "AKEY24011",
+      "password": "Srivani24011",
+      "name": "Srivani Kodimyala",
+      "__v": 0
+  },
+  {
+      "_id": "66f2494d64c28ad3d6a29f00",
+      "employeeID": "Admin",
+      "password": "Admin@2024",
+      "name": "Ramakrishna Reddy",
+      "__v": 0
+  },
+  {
+      "_id": "66f294ee3569ef642ad7db4b",
+      "employeeID": "AKEY24015",
+      "password": "Neha",
+      "name": "Neha Kumari",
+      "__v": 0
+  },
+  {
+      "_id": "66f2a80cec59923ea2c16e13",
+      "employeeID": "AKEY23005",
+      "password": "Madhu@1410",
+      "name": "Madhukar Reddy",
+      "__v": 0
+  },
+  {
+      "_id": "66f2a82cec59923ea2c16e15",
+      "employeeID": "AKEY24020",
+      "password": "Arun24020",
+      "name": "Arun Bhairi",
+      "__v": 0
+  },
+  {
+      "_id": "66f2a893ec59923ea2c16e38",
+      "employeeID": "AKEY24005",
+      "password": "Subbu24005",
+      "name": "Subbalakshmi",
+      "__v": 0
+  },
+  {
+      "_id": "66f3e08c278967ebab0db7a2",
+      "employeeID": "AKEY24017",
+      "password": "Bhim24017",
+      "name": "Bhimeswar Reddy",
+      "__v": 0
+  },
+  {
+      "_id": "66fe3ef56740a9b1b53d3e69",
+      "employeeID": "AKEY24021",
+      "password": "Ramana24021",
+      "name": "Ramana Avudurthi",
+      "__v": 0
+  },
+  {
+      "_id": "6701112fe3fb2b5f5ba29311",
+      "employeeID": "AKEY24008",
+      "password": "Soujanya24008",
+      "name": "Soujanya Veginagi",
+      "__v": 0
+  },
+  {
+      "_id": "670111b9e3fb2b5f5ba293b3",
+      "employeeID": "AKEY23019",
+      "password": "Chandrika@27",
+      "name": "Chandrika Kadiri",
+      "__v": 0
+  },
+  {
+      "_id": "670111ece3fb2b5f5ba293b5",
+      "employeeID": "AKEY23010",
+      "password": "Jyothsna23010",
+      "name": "Jyothsna Vatturi",
+      "__v": 0
+  },
+  {
+      "_id": "670115e0e3fb2b5f5ba29a50",
+      "employeeID": "AKEY23004",
+      "password": "Sainath23004",
+      "name": "Sainath Kandula",
+      "__v": 0
+  },
+  {
+      "_id": "670e155cdd806c1c09b236b7",
+      "employeeID": "AKEY24014",
+      "password": "Prasanna24014",
+      "name": "Prasanna",
+      "__v": 0
+  },
+  {
+      "_id": "6710ebbd64134f665dd0514e",
+      "name": "Neha",
+      "password": "1234",
+      "employeeID": "Admin 2"
+  }
+]
